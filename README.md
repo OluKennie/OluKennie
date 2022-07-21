@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OluKennie
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any data analysis roject
+- 💞️ I’m looking to collaborate on any data related project
 - 📫 How to reach me : olukokunkehindejoseph@gmail.com https://www.linkedin.com/in/olukokun-joseph/
 
 <!---
