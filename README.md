@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on any data related project
-- 📫 How to reach me : 
+- 📫 How to reach me <br/>
 [gmail](olukokunkehindejoseph@gmail.com) <br/> [linkedin](https://www.linkedin.com/in/olukokun-joseph/)
 
 <!---
